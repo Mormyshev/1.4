@@ -72,7 +72,7 @@ body {
 .page {
   margin-top: 28px;
   margin-left: 0px;
-  margin-bottom: 140px;
+  margin-bottom: 32px;
   flex: 1 1 auto;
 }
 .page__list {
